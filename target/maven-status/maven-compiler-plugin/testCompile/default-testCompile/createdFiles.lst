@@ -1,0 +1,4 @@
+page_objects\SharedPageObjects.class
+page_objects\PaymentsPage.class
+page_objects\LoginPage.class
+page_objects\EmailsPage.class
